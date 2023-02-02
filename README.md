@@ -5,15 +5,11 @@ Natural Language Processing (NLP) is an emerging technology that derives various
 5 Phases of NLP
 Lexical or Morphological Analysis. Lexical or Morphological Analysis is the initial step in NLP;
 
-
 Syntax Analysis or Parsing,
-
 
 Semantic Analysis.,
 
-
 Discourse Integration,
-
 
 Pragmatic Analysis.
 
